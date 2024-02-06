@@ -8,7 +8,7 @@ https://www.hackingwithswift.com/100/swiftui
 
 Type               | Number  | Completion
 :---               |  :---:  |   :---:
-Tutorial           | 2 / 14 | 10%
+Tutorial           | 2 / 14 | 14%
 Projects           | 0 / 19 | 0%
 
 
